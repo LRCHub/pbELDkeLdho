@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "T.B.H",
+  "base_artist": "QWER",
+  "createdAt": "2025-12-05T00:11:26.639477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "T.B.H",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/01_T.B.H_QWER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "T.B.H (고민중독)",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/02_T.B.H_(고민중독)_QWER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "T.B.H",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/03_T.B.H_QWER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A.O.T.B.H.",
+      "artist": "The Creepshow",
+      "has_synced": true,
+      "path": "select/04_A.O.T.B.H._The_Creepshow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "T.B.H",
+      "artist": "Pressa",
+      "has_synced": true,
+      "path": "select/05_T.B.H_Pressa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "T.B.H (Ballad Ver.)",
+      "artist": "HYB (Huh Gak，Shin Yong Jae，Onestar)",
+      "has_synced": true,
+      "path": "select/06_T.B.H_(Ballad_Ver.)_HYB_(Huh_Gak,Shin_Yong_Jae,Onestar).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "T.B.H (고민중독)",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/07_T.B.H_(고민중독)_QWER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "T.B.H",
+      "artist": "QWER",
+      "has_synced": true,
+      "path": "select/08_T.B.H_QWER.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "T B H !",
+      "artist": "O'Bros",
+      "has_synced": true,
+      "path": "select/09_T_B_H_!_O'Bros.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "T.B.H",
+      "artist": "QWER",
+      "has_synced": false,
+      "path": "select/pl_01_T.B.H_QWER.txt"
+    }
+  ]
+}
